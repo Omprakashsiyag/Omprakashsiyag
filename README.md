@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omprakashsiyag
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python in Data Science
+- 🌱 I’m currently learning Python in Data Science & Data Analytics
 - 💞️ I’m looking to collaborate on Projects
 
 <!---
